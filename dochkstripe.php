@@ -2,7 +2,7 @@
 
 ////////////////=============[Made with ❤️ by @'.$Tabah_Rs.']===============////////////////
 
-///https://api.telegram.org/bot2068693818:AAGnXStDhqnEUb43xKViIM2GuyR1CId7lvM/setWebhook?url=https://github.com/Bahhh123/PowerF.io.git/dochkstripe.php
+///https://api.telegram.org/bot2068693818:AAGnXStDhqnEUb43xKViIM2GuyR1CId7lvM/setWebhook?url=https://github.com/Bahhh123/PowerF.io/blob/main/dochkstripe.php
 
 $botToken = "2068693818:AAGnXStDhqnEUb43xKViIM2GuyR1CId7lvM"; // Enter ur bot token
 $website = "https://api.telegram.org/bot".$botToken;
